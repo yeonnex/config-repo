@@ -1,5 +1,6 @@
 welcome:
   message: "hihi WORLD!"
+  info: "config-repo-from-github"
 
 example:
   property: "I AM IN THE DEFAULT FROM GITHUB!!!"
