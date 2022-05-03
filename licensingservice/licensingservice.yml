@@ -1,5 +1,5 @@
 example:
-  property: "I AM IN THE DEFAULT FROM GITHUB"
+  property: "I AM IN THE DEFAULT FROM GITHUB!!!"
 
 spring:
   jpa:
