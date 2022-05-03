@@ -1,5 +1,5 @@
 welcome:
-  message: "HELLO WORLD!"
+  message: "hihi WORLD!"
 
 example:
   property: "I AM IN THE DEFAULT FROM GITHUB!!!"
